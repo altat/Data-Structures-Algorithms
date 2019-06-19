@@ -1,0 +1,4 @@
+mouse mickey 9812 66600
+ghost casper 1234 40000
+duck donald 9000 90000
+moose bullwinkle 23 72000
