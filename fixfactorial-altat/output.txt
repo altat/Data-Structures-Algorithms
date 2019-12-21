@@ -1,0 +1,28 @@
+Sun Sep 29 21:09:49 PDT 2019
+*** compiling with clang++ to create an executable called myprogram
+clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+*** running clang-tidy using options from .clang-tidy
+LLVM (http://llvm.org/):
+  LLVM version 6.0.0
+  
+  Optimized build.
+  Default target: x86_64-pc-linux-gnu
+  Host CPU: skylake
+10381 warnings generated.
+18686 warnings generated.
+26576 warnings generated.
+Suppressed 26576 warnings (26576 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+*** running myprogram
+test01 complete
+Test02 complete
+Test03 complete
+Test04 complete
+Test05 complete
+TestAll complete
+Done!
+*** cleaning up, deleting myprogram
+Sun Sep 29 21:10:08 PDT 2019
